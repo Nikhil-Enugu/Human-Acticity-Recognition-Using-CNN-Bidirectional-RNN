@@ -1,0 +1,1 @@
+# Human-Acticity-Recognition-Using-CNN-Bidirectional-RNN
