@@ -22,7 +22,7 @@ This project uses the **HMDB51 dataset**, a collection of videos from various so
 
 To run this project, you'll need the following libraries:
 
-  * Python 3
+  * Python 3.10
   * PyTorch
   * PyTorch Lightning
   * torchmetrics
